@@ -1,0 +1,6 @@
+name = "soramakiproxy"
+main = "index.js"
+compatibility_date = "2024-08-02"
+
+[vars]
+SORAMAKI_ORDERS_GET_URL = "https://script.google.com/macros/s/AKfycbxaWdS-I-9Uo6PZmQcVmh9a-ORWv9uTvS1z7w1kNGPHAhuOWNxW12izxw0CN2MWnXRRdA/exec"
